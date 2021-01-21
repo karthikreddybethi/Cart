@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/KarthikInterviewTask/static/js/main.d390dc56.chunk.js",
+    "main.js.map": "/KarthikInterviewTask/static/js/main.d390dc56.chunk.js.map",
+    "runtime-main.js": "/KarthikInterviewTask/static/js/runtime-main.f4c35d85.js",
+    "runtime-main.js.map": "/KarthikInterviewTask/static/js/runtime-main.f4c35d85.js.map",
+    "static/js/2.8238443f.chunk.js": "/KarthikInterviewTask/static/js/2.8238443f.chunk.js",
+    "static/js/2.8238443f.chunk.js.map": "/KarthikInterviewTask/static/js/2.8238443f.chunk.js.map",
+    "index.html": "/KarthikInterviewTask/index.html",
+    "static/js/2.8238443f.chunk.js.LICENSE.txt": "/KarthikInterviewTask/static/js/2.8238443f.chunk.js.LICENSE.txt",
+    "static/media/headphones.054e2115.png": "/KarthikInterviewTask/static/media/headphones.054e2115.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c35d85.js",
+    "static/js/2.8238443f.chunk.js",
+    "static/js/main.d390dc56.chunk.js"
+  ]
+}
